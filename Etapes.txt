@@ -1,0 +1,14 @@
+ETAPES
+
+Construire les fonctionnalités dans l'ordre suivant
+
+1. "envoire de requete" du client vers la librarie 
+2. "reception de requete" venant du client par la librarie et affichage des resultats 
+==> On posside la version 1 
+3. "envoi de reponse" par la librarie au client
+4. "reception de reponse" par le client
+==> version 2
+5. Communication Nil <-> librarie
+6. Communication Nil <-> cleint
+==> version 3
+
